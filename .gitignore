@@ -1,4 +1,7 @@
 /runs
 /datasets
 /data
+/deprecated
+
+
 *.pt
