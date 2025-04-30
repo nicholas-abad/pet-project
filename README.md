@@ -16,4 +16,4 @@ Why not...?
 
 ### Work still in progress but here's a picture of this bonafide killer:
 
-![./assets/elfie_sleeping.jpeg](./assets/elfie_sleeping.jpeg)
+<img src="./assets/elfie_sleeping.jpeg" alt="Elfie sleeping" width="500"/>
