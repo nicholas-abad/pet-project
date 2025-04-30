@@ -9,6 +9,7 @@ Creating a cat flap to only open when (1) a cat does not have a foreign object (
 Why not...?
 
 ### Technologies To Use:
+
 - Python
 - Raspberry Pi
 - RFID Scanner
